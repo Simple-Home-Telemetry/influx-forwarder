@@ -1,2 +1,2 @@
 # influx-forwarder
-Лinflux forwarder
+Influx forwarder
